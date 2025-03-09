@@ -18,3 +18,14 @@
 - (optional) Install DBeaver, Postman, Figma, 
 - (optional) Install Redis, MariaDB with XAMPP, postgreSQL, MongoDB
 - (optional) Install WSL Ubuntu, Docker
+
+## Resources for Starter
+
+- https://docs.flutter.dev/get-started/learn-flutter
+- https://dart.dev/overview
+- http://gitignore.io/
+
+> You can find general documentation for Flutter at: https://docs.flutter.dev/
+> Detailed API documentation is available at: https://api.flutter.dev/
+> If you prefer video documentation, consider: https://www.youtube.com/c/flutterdev
+> Your application code is in .\lib\main.dart.
