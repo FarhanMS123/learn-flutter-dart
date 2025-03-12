@@ -18,12 +18,17 @@
 - (optional) Install DBeaver, Postman, Figma, 
 - (optional) Install Redis, MariaDB with XAMPP, postgreSQL, MongoDB
 - (optional) Install WSL Ubuntu, Docker
+- (optional) for web `CHROME_EXECUTABLE = C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe`
 
 ## Resources for Starter
 
 - https://docs.flutter.dev/get-started/learn-flutter
 - https://dart.dev/overview
 - http://gitignore.io/
+- https://docs.flutter.dev/reference/create-new-app
+- https://docs.flutter.dev/get-started/flutter-for/declarative
+- Cupertino widget library
+- https://dart.dev/guides/language/effective-dart/style#dont-use-a-leading-underscore-for-identifiers-that-arent-private
 
 > You can find general documentation for Flutter at: https://docs.flutter.dev/
 > Detailed API documentation is available at: https://api.flutter.dev/
