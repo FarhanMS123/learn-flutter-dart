@@ -24,6 +24,7 @@
 
 - https://docs.flutter.dev/get-started/learn-flutter
 - https://dart.dev/overview
+- https://dartcode.org/docs/recommended-settings/
 - http://gitignore.io/
 - https://docs.flutter.dev/reference/create-new-app
 - https://docs.flutter.dev/get-started/flutter-for/declarative
@@ -38,7 +39,12 @@
 
 - https://docs.flutter.dev/get-started/codelab
 - https://codelabs.developers.google.com/codelabs
+  - https://codelabs.developers.google.com/?product=flutter
 - https://docs.flutter.dev/cookbook/
+  - [Build a form with validation | Flutter](https://docs.flutter.dev/cookbook/forms/validation)
+- [Binding to native Android code using dart:ffi | Flutter](https://docs.flutter.dev/platform-integration/android/c-interop)
+- [Effective Dart: Style #DO name packages, directories, and source files using `lowercase_with_underscores` | Dart](https://dart.dev/effective-dart/style#do-name-packages-and-file-system-entities-using-lowercase-with-underscores)
+- [flutter: The Flutter command-line tool | Flutter](https://docs.flutter.dev/reference/flutter-cli)
 
 ## Question
 - What is different of Const and Final?
