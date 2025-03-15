@@ -19,6 +19,10 @@
 - (optional) Install Redis, MariaDB with XAMPP, postgreSQL, MongoDB
 - (optional) Install WSL Ubuntu, Docker
 - (optional) for web `CHROME_EXECUTABLE = C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe`
+- Add `%LOCALAPPDATA%\Pub\Cache\bin` to Path
+- Install [Melos](https://melos.invertase.dev/~melos-latest/getting-started)
+- Install [Very Good CLI](https://cli.vgv.dev/docs/overview)
+- Do monorepo
 
 ## Resources for Starter
 
